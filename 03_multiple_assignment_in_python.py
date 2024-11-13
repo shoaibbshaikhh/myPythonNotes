@@ -21,3 +21,14 @@ print(Spongebob)
 print(Patrick)
 print(Sandy)
 print(Squidward)
+
+
+
+# Output:
+# Shoaib
+# 21
+# True
+# 30
+# 30
+# 30
+# 30

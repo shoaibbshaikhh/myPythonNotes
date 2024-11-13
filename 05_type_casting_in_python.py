@@ -19,3 +19,16 @@ print(type(z)) #int
 print("x is "+str(x))
 print(y*3)
 print("z is "+str(z))
+
+
+
+# Output:
+# <class 'int'>
+# <class 'float'>
+# <class 'str'>
+# <class 'float'>
+# <class 'str'>
+# <class 'int'>
+# x is 1.0
+# 2.02.02.0
+# z is 3

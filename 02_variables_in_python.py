@@ -20,3 +20,15 @@ print(type(height))
 human = True
 print("Are you a human: "+str(human))
 print(type(human))
+
+
+
+# Output:
+# Hello Shoaib Shaikh
+# <class 'str'>
+# Your age is: 22
+# <class 'int'>
+# your height is: 250.5cm
+# <class 'float'>
+# Are you a human: True
+# <class 'bool'>
