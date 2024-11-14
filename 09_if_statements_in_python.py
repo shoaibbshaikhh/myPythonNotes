@@ -12,3 +12,16 @@ else:
     print("You are a child!")
 
 
+
+# Output:
+# How old are you?: 100
+# You are a century old!
+
+# How old are you?: 21
+# You are an adult!
+
+# How old are you?: -2
+# You haven't been born yet!
+
+# How old are you?: 12
+# You are a child!
