@@ -1,5 +1,5 @@
 # you can create separate class python file
-# but I not created
+# But I was not created
 
 class Car:
     def __init__(self, make, model, year, color):
