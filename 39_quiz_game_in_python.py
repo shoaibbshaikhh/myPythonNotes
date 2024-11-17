@@ -53,21 +53,18 @@ def play_again():
     else:
         return False
 # -----------------------
-
 questions = {
     "Who created python?: ": "A",
     "What year was python created?: ": "B",
     "Python is tribute to which comedy group?: ": "C",
     "Is the Earth round?: ": "A"
 }
-
 options = [["A, Guido van Rossum","B, Elon Musk","C, Bill Gates","D, Mark Zuckerberg"],
            ["A, 1989","B, 1991","C, 2000","D, 2016"],
            ["A, Lonely Island","B, Smosh","C, Monty Python","D, SNL"],
            ["A, True","B, False","C, Sometimes","D, What's Earth?"]]
-
+# -----------------------
 new_game()
-
 while play_again():
     new_game()
 print("Byeeee :(")
