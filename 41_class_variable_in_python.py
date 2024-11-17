@@ -1,11 +1,11 @@
-# you can create separate class python file
-# But I was not created
-
 from car import Car
 
 car_1 = Car("Chevy","Corvette","2021","blue")
 car_2 = Car("Ford","Mustang","2022","red")
 
+car_1.wheels = 2
 
-car_1.drive()
-car_2.stop()
+print(car_1.wheels)
+print(car_2.wheels)
+
+print(Car.wheels)
