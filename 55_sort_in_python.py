@@ -1,6 +1,7 @@
 # sort() method = used with lists
 # sort() function = used with iterables
 
+# Sorting list:
 # students = ["Squidward","Sandy","Patrick","Spongebob","Mr.Krabs"]
 
 # students.sort()
